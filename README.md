@@ -22,6 +22,8 @@ IDE & Tools: Eclipse IDE, MySQL Workbench, Apache Tomcat Server
 
 Clone the repository
 
+git clone https://github.com/Ayesha1417/foodzy.git- cd foodhub
+
 Import into Eclipse IDE as a Dynamic Web Project
 
 Deploy on Apache Tomcat
